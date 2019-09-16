@@ -1,4 +1,4 @@
-# Serie temporal Python
+# Serie temporal Python :octocat:
 
    
 ### Data set referência (arquivo input)
