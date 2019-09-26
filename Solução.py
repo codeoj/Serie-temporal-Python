@@ -129,6 +129,6 @@ subs.close()'''
 
 print(s)
 
-print(D)
+#print(D)
 
-print(n)
+#print(n)
