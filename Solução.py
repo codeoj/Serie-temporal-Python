@@ -127,8 +127,8 @@ subs.writelines(OP)
 
 subs.close()'''
 
-#print(s)
+print(s)
 
-#print(D)
+print(D)
 
-#print(n)
+print(n)
