@@ -1,4 +1,5 @@
 ### Série temporal
+*sem utilização de bibliotecas*
 
 
 
