@@ -1,4 +1,4 @@
-### Série temporal
+### Trabalho série temporal utilizando Python
 *sem utilização de bibliotecas*
 
 
