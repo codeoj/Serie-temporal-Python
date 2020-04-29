@@ -5,7 +5,7 @@
 [Detalhes da tarefa](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx3aWxsemFsfGd4OjVlMGJmOWY0NzczNTFlMGQ)
 
 
-  #### :computer::page_facing_up: [Data set referência](http://timeseriesclassification.com/description.php?Dataset=ProximalPhalanxTW)
+  #### :computer::page_facing_up: [Data set utilizado como referência](http://timeseriesclassification.com/description.php?Dataset=ProximalPhalanxTW)
 
 
 
