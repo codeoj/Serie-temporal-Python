@@ -1,11 +1,7 @@
-## Trabalho de série temporal utilizando Python
-*sem utilização de bibliotecas*
+## Série temporal
+Time series of 11 classification problems were created as part of Luke Davis's PhD titled "Predictive Modelling of Bone Ageing". They are all derived from the same images, extracted from Cao et al. "Digital hand atlas and web-based bone age assessment: system design and implementation".
 
-### Regras do trabalho, e tarefas principais:
-[Detalhes da tarefa](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnx3aWxsemFsfGd4OjVlMGJmOWY0NzczNTFlMGQ)
-
-
-  #### :computer::page_facing_up: [Data set utilizado como referência](http://timeseriesclassification.com/description.php?Dataset=ProximalPhalanxTW)
+  #### :page_facing_up: [Data set](http://timeseriesclassification.com/description.php?Dataset=ProximalPhalanxTW)
 
 
 
